@@ -1,0 +1,19 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+#jumbotron{
+    text-align: center;
+    opacity: 0.8;
+}
+#trainSchedule{
+    background-color: whitesmoke;
+    opacity: 0.9;
+}
+#trainform{
+    background-color: whitesmoke;
+    padding:1vw;
+    opacity:.9;
+}
